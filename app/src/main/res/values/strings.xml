@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Practice 6</string>
+    <string name="input">Войти</string>
+    <string name="userName">Имя пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="settings">Настройки</string>
+    <string name="calendar">Календарь</string>
+    <string name="alarm">Будильник</string>
+    <string name="backButtonName">BackButton</string>
+    <string name="userProfile">Профиль пользователя</string>
+    <string name="dateAndTime">Дата и время</string>
+    <string name="soundSettings">Настройки звука</string>
+    <string name="checkUpdate">Проверить обновления</string>
+    <string name="arrow">Стрелочка</string>
+    <string name="bottomPanel">Нижняя панель</string>
+    <string name="time1">07:30</string>
+    <string name="time2">08:00</string>
+    <string name="addAlarm">Добавить будильник</string>
+</resources>
